@@ -1,3 +1,0 @@
-/home/bloo/Coding/C/DynamicArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/bloo/Coding/C/DynamicArray/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/bloo/Coding/C/DynamicArray/cmake-build-debug/CMakeFiles/DynamicArray.dir
